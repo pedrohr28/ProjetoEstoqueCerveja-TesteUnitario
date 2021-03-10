@@ -1,5 +1,4 @@
-# Testes Unitários - Digital Innovation One
-
+# Testes unitário para validar API REST estoque de cerveja
 ##### Objetivos da Aula:
 1. Apresentar a pirâmide de testes de software e detalhar cada nível.
 2. Destacar a importância dos testes unitários durante o desenvolvimento.
